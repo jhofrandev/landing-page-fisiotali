@@ -6,6 +6,11 @@
     "module": "ESNext",
     "types": ["node"],
     "skipLibCheck": true,
+    "baseUrl": "src",
+    "paths": {
+      "@/pages/*": ["./pages/*"],
+      "@/templates/*": ["./templates/*"]
+    },
 
     /* Bundler mode */
     "moduleResolution": "bundler",
