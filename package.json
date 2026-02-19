@@ -13,6 +13,7 @@
     "@tailwindcss/vite": "^4.1.18",
     "@tanstack/react-router": "^1.160.0",
     "@tanstack/react-router-devtools": "^1.160.0",
+    "flowbite-react": "^0.12.17",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "tailwindcss": "^4.1.18"
