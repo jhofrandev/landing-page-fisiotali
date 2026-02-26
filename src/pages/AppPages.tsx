@@ -4,7 +4,7 @@ import { TanStackRouterDevtools } from "@tanstack/react-router-devtools";
 export default function AppPages() {
   return (
     <>
-      <nav className="bg-neutral-primary border-b border-default">
+      <nav className="fixed top-0 left-0 w-full bg-white shadow-md">
         <div className="max-w-7xl flex flex-wrap items-center justify-between mx-auto p-4">
           <a
             href="/"
